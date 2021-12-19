@@ -1,0 +1,6 @@
+1: Teoria
+2: Foi sobre como adicionar o bootstrap no meu arquivo
+3: Como add containers (checar documentação)
+4: Como add imagens(checar documentação) aos containers
+5: Conteiner - class="Row" (Questão de dividir em 12 colunas)
+6: Aplicação de tudo

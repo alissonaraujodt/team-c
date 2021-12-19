@@ -1,0 +1,43 @@
+.ooiii {
+    background-color:#8ba0e7 ;
+}
+
+.quemsomos {
+    background-color: #4E5B87;
+    padding-bottom: 25px;
+    padding-top:10px ;
+    text-align: center;
+    color: lightgray;
+}
+
+.quemsomos-img {
+    border-radius: 50%;
+}
+
+.servicos {
+    background-color:#192035;
+    text-align: center;
+    color: lightgray;
+    padding-bottom: 45px;
+    padding-top:10px;
+}
+
+
+
+.servicos-t {
+    padding-bottom:25px;
+}
+
+.contatos {
+    background-color: #120907;
+    color: lightgray;
+    text-align: center;
+    padding-bottom: 45px;
+    padding-top:10px ;
+}
+
+.bg-footer {
+    background-color: black;
+    color: lightgray;
+    padding-bottom: 50px;
+}
